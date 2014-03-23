@@ -1,0 +1,65 @@
+
+<!--<div class="img-responsive">
+<style>
+body { 
+     background: url('/assets/run3.jpg')no-repeat center center fixed; 
+      background-size: cover;
+    }
+</style>
+   </div> 
+-->
+
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+ <div class="carousel-inner">
+      <div class="item active">
+ <img src= "/assets/run3.jpg" width = "100%" alt="photo">
+        <div class="carousel-caption">
+ <h1><font color="white">Train Harder.Race Faster.Log Easier.</font></h1>
+ <h3><a class="btn btn-primary btn-lg">Sign Up Now for Free! &raquo;</a> 
+<a class="btn btn btn-default btn-lg">Already a user? Sign In &raquo;</a></h3>
+   
+        </div>
+      </div>
+
+      <div class="item">
+<img src= "/assets/run2.jpg" alt="photo2" width="100%" height = "100%" class = "img-responsive">
+        <div class="carousel-caption">
+      <h1><font color="Black">Train Harder.Race Faster.Log Easier.</font></h1>
+ <h3><a class="btn btn-primary btn-lg">Sign Up Now for Free! &raquo;</a> 
+<a class="btn btn btn-default btn-lg">Already a user? Sign In &raquo;</a></h3>
+        </div>
+      </div>
+
+
+<div class="item">
+<img src= "/assets/shoes1.jpg" alt="photo2" class = "img-responsive">
+        <div class="carousel-caption">
+   <h1><font color="White">Train Harder.Race Faster.Log Easier.</font></h1>
+     <h3><a class="btn btn-primary btn-lg">Sign Up Now for Free! &raquo;</a> 
+<a class="btn btn btn-default btn-lg">Already a user? Sign In &raquo;</a></h3>
+        </div>
+        </div>
+      </div>
+    </div>
+
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div>
+
+
+
