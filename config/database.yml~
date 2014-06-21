@@ -19,8 +19,8 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: teamcooldown_test
+  database: teamcooldown_test2
   host: localhost
   pool: 5
-  username: Prefoninsane
-  password: 
+  username: Prefoninsane2
+  password: boston92
